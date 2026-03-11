@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Software development projects related with sciences**
 
-- 💬 Ask me about **Javascript, React, Python, Tailwind CSS, Bootstrap CSS, React, Flask, SQLAlchemy**
+- 💬 Ask me about **Javascript, React, Python, Tailwind CSS, Bootstrap CSS,  Flask, SQLAlchemy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
