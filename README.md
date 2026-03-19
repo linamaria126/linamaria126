@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lina María Cardona Giraldo</h1>
 <h3 align="center">Front-End Developer with experience building web applications using React and modern JavaScript. Focused on creating responsive interfaces, reusable components and scalable UI.</h3>
 
-- 🔭 I’m currently working on [Buen Vecino](https://github.com/linamaria126/Buen-Vecino.git)
+- 🔭 I’m currently working on [VencinApp](https://github.com/linamaria126/VecinApp)
 
 - 👯 I’m looking to collaborate on **Software development projects related with sciences**
 
